@@ -497,8 +497,8 @@ public class AudioPlayerActivity extends FragmentActivity implements ServiceConn
         // ViewPager container
         mPageContainer = (FrameLayout)findViewById(R.id.audio_player_pager_container);
         // Theme the pager container background
-        mPageContainer
-                .setBackgroundDrawable(mResources.getDrawable("audio_player_pager_container"));
+        //mPageContainer
+        //        .setBackgroundDrawable(mResources.getDrawable("audio_player_pager_container"));
 
         // Now playing header
         mAudioPlayerHeader = (LinearLayout)findViewById(R.id.audio_player_header);
