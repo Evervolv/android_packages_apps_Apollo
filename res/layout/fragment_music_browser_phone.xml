@@ -33,7 +33,7 @@
             android:id="@+id/fragment_home_phone_pager"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_below="@+id/fragment_home_phone_pager_titles" />
+            android:layout_below="@+id/fragment_home_phone_pager_tabs" />
     </RelativeLayout>
 
 </FrameLayout>
